@@ -1,3 +1,4 @@
 ## MariaDB Docker Compose 
 
-Archivo para crear una pila con MariaDB y PHPmyAdmin
+Archivo de docker compose para crear una pila con MariaDB y PHPmyAdmin
+Variables de entorno en archivo externo
