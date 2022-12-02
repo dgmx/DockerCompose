@@ -32,7 +32,7 @@ Si todo termina correctamente podemos administrar la base de datos de 2 formas:
 
 (Como usuario estandar)
 
-    marbiadb -u user -h 127.0.0.1 -p  
+    mariadb -u user -h 127.0.0.1 -p  
     
 Si recibimos el error:
 
@@ -41,3 +41,9 @@ Si recibimos el error:
 podemos usar el comando:
 
     mariadb --protocol=tcp -u root -p
+    
+Podemos crear un alias en linux para evitar usar todo el comando anterior, creando un alias para cada usuario:
+
+    alias mariadbr="mariadb mariadb --protocol=tcp -u root -p"
+y
+    alias mariadbu="mariadb mariadb --protocol=tcp -u user -p"
