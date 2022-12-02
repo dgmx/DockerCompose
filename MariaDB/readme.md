@@ -56,5 +56,5 @@ Tambien podemos utilizar software de terceros como DBeaver. DBeaver es una herra
 Puedes descargar [DBeaver desde su web oficial ](https://dbeaver.io/).
 
 
-!Captura de pantalla](images/captura1.jpg)
+!Captura de pantalla](images/mock_data.png)
 
