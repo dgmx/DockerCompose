@@ -57,4 +57,5 @@ Puedes descargar [DBeaver desde su web oficial ](https://dbeaver.io/).
 
 
 !Captura de pantalla](images/mock_data.png)
+![image info](./images/mock_data.png)
 
