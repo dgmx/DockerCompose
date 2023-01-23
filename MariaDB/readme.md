@@ -46,9 +46,10 @@ podemos usar el comando:
     
 Podemos crear un alias en linux para evitar usar todo el comando anterior, creando un alias para cada usuario:
 
-    alias mariadbr="mariadb mariadb --protocol=tcp -u root -p"
+    alias mariadbr="mariadb  --protocol=tcp -u root -p"
 y
-    alias mariadbu="mariadb mariadb --protocol=tcp -u user -p"
+     
+    alias mariadbu="mariadb  --protocol=tcp -u user -p"
     
 
 Tambien podemos utilizar software de terceros como DBeaver. DBeaver es una herramienta de base de datos universal gratuita y de código abierto para desarrolladores y administradores de bases de datos.
